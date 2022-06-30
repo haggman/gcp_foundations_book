@@ -1,3 +1,3 @@
-project_id = "qwiklabs-gcp-01-f425bfa4311b"
+project_id = "your-project-here"
 region="us-central1"
 zone="us-central1-a"
